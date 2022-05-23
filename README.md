@@ -21,6 +21,7 @@ weights/gta+syn2cs/r2-ckd-pro-bs1x4/weight.pth |gta| cityscape | 62.71
 weights/gta+syn2cs/r2-ckd-pro-bs1x4/weight.pth |gta+syn| cityscape | 68.99 
 weights/gta2cs+map/s2-ckd-pro-bs1x4/weight.pth |gta| cityscape | 60.38 
 weights/gta2cs+map/s2-ckd-pro-bs1x4/weight.pth |gta| mapillary | 56.85
+
 The above weight and log can be obtained through [BaiduYun](https://pan.baidu.com/s/1uqSItKTTB3eCCj9sFT1Tww?pwd=60il). After downloading, please put it under the project folder
 ## Setup Datasets
 
@@ -34,7 +35,7 @@ them to `data/gta`.
 
 **Synthia:** Please, download SYNTHIA-RAND-CITYSCAPES from
 [here](http://synthia-dataset.net/downloads/) and extract it to `data/synthia`.  
-**mapillary** Please, download MAPILLARY v1.2 from https://research.mapillary.com/  
+**mapillary** Please, download MAPILLARY v1.2 from [here](https://research.mapillary.com/)  
 Then, you should prepare data as follows:
 ```shell
 # All data are listed in /mnt/lustreold/share_data/chenlin/data
